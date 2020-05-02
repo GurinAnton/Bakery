@@ -98,7 +98,7 @@ span {
 }
 .header-nav {
   position: fixed;
-  width: 100%;
+  width: 1600px;
   height: 70px;
   background-color: #56534c;
   opacity: 0.7;
